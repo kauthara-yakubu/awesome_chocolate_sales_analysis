@@ -5,7 +5,7 @@
 
 ## 📚 Table of Contents
 
-1. [📁 Project Background](#1-project-background)  
+1. [📁 Project Background](#1project-background)  
 2. [🧠 Executive Summary](#2-executive-summary)  
    - [📘 Schema ERD Diagram](#schema-erd-diagram)  
 3. [🔍 Insight Deep Dive (MoM Matrix)](#3-insight-deep-dive)  
@@ -39,7 +39,7 @@ The objectives of this analysis are to:
 
 ## 2. 🧠 Executive Summary
 
-**Awesome Chocolate** generated over **$33M in sales** with **61.6% margins**, across 6,113 global shipments. **December 2023** was the top month: $2.94M in sales, 529 shipments — led by **Canada and USA**. **February 2023** was the weakest: 402 shipments, $1.39M profit. The top 5 products (Organic Choco Syrup, Peanut Butter Cubes, 99% Dark & Pure, Manuka Honey Choco, Fruit & Nut Bars) contributed 29% of revenue. Bottom 5 ( 85% Dark Bars, Choco Coated Almonds, 70% Dark Bites, Eclairs, and Mint Chip Choco mainly in **India and Australia** — showed weak traction
+**Awesome Chocolate** generated over **$33M in sales** in its first 13 months, with **61.6% margins**, across 6,113 global shipments. Performance peaked in **December 2023**, driven by **$2.94M** in sales and **529** shipments, especially from **Canada and the USA**. The lowest-performing month was **February 2023**, with only **402** shipments, a typical result for a startup’s early ramp-up. The top 5 products (Organic Choco Syrup, Peanut Butter Cubes, 99% Dark & Pure, Manuka Honey Choco, Fruit & Nut Bars) contributed over 29% of revenue, while the bottom 5 ( 85% Dark Bars, Choco Coated Almonds, 70% Dark Bites, Eclairs, and Mint Chip Choco primarily in **India and Australia** showed weak traction.
 
 ### Key Performance Metrics (Feb 2023 – Feb 2024)
 ![Key Performance Metrics](assets/image/Awesome_chocolate_performance_metrics.png)
@@ -54,6 +54,7 @@ The objectives of this analysis are to:
 
 ## 3. 🔍 Insight Deep Dive 
 
+![Insight Deep Dive](assets/image/Monthly_MoM_Matrix.png)
 
 ### 📊 Best Month Analysis (Dec 2023)
 - **Sales:** $2.94M  
@@ -75,12 +76,38 @@ The objectives of this analysis are to:
 
 📌 Recommendation: Designate February for internal training, pilot product tests, or operational reviews instead of outbound campaigns to optimize team readiness for Q2 and beyond.
 
+---
+
+## 4. 📈 Performance Visuals & Trends
 
 
+### 📊 Total Profit by Month
+![Total Profit by Month](assets/image/profit_by_month.png)
+
+✅ Insight: Profit fluctuated between $1.39M and $1.83M, with a noticeable Q4 uplift starting in October, showing strong seasonal demand that should drive procurement planning.
+
+### 📊 Profit % & MoM Profit Change
+![Profit % and MoM Profit Change](assets/image/profit_percent_mom_change.png)
+
+✅ Insight: While profit margins stayed stable (~60%), MoM profit changes revealed volatility, especially the -25.1% drop in November 2023, prompting an investigation into product or fulfillment disruptions. Demands ops review.
+
+### 📊 Sales vs Cost by Month
+![Sales vs Cost by Month](assets/image/sales_vs_cost.png)
+
+✅ Insight: The gap between Sales and Cost was widest in December 2023 ($2.9M vs $1.1M), reaffirming the importance of holiday campaigns and cost-controlled supply chain strategies.
+
+### 📊 Shipment Count by Month
+![Shipment Count by Month](assets/image/shipment_count.png)
+
+✅ Insight: Shipments grew steadily from 402 to a high of 529, with Canada consistently among the top contributors. This shows the maturity of the sales process and rep performance in the Americas.
 
 
+---
 
+## 5. 🌡️ MoM % Change Heatmap
+![MoM % Change Heatmap](assets/image/mom_change_matrix.png)
 
+---
 
 
 
