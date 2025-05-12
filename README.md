@@ -1,6 +1,6 @@
 # 🍫 **Awesome Chocolate Sales Analysis  (Feb 2023 – Feb 2024)**
 
-**_Executive Sales Analysis, Product Insights, and Actionable Strategy for Awesome Chocolate Inc._**
+**_Executive Sales Analysis, Product Insights, and Actionable Strategy for Awesome Chocolate Inc_**
 
 
 ## 📚 Table of Contents
@@ -8,7 +8,7 @@
 1. [📁 Project Background](#1-project-background)  
 2. [🧠 Executive Summary](#2-executive-summary)  
    - [📘 Schema ERD Diagram](#schema-erd-diagram)  
-3. [🔍 Insight Deep Dive (MoM Matrix)](#3-insight-deep-dive-mom-matrix)  
+3. [🔍 Insight Deep Dive (MoM Matrix)](#3-insight-deep-dive)  
    - [📊 Best Month Analysis (Dec 2023)](#best-month-analysis-dec-2023)  
    - [📉 Worst Month Analysis (Feb 2023)](#worst-month-analysis-feb-2023)  
 4. [📈 Performance Visuals & Trends](#4-performance-visuals--trends)  
@@ -26,16 +26,9 @@
 
 
 
-
-
-# 🍫 Awesome Chocolate Sales Report (Feb 2023 – Feb 2024)
-
 ## 1. 📁 Project Background
 
-**Awesome Chocolate** is a gourmet chocolate startup founded in **February 2023**, offering a variety of high-end products like chocolate bars, syrups, cubes, and specialty bites.  
-The company operates across **North America (USA, Canada)**, **Asia-Pacific (India, Australia, New Zealand)**, and **Europe (UK)**. It launched with a **lean product portfolio** and a growing international sales team.
-
-In collaboration with the Head of Sales, I developed a report to analyze the company’s first full year of operations and deliver recommendations to improve performance across sales and the  product teams.
+**Awesome Chocolate** is a gourmet chocolate startup founded in **February 2023**, offering a variety of high-end products like chocolate bars, syrups, cubes, and specialty bites. The company operates across **North America (USA, Canada)**, **Asia-Pacific (India, Australia, New Zealand)**, and **Europe (UK)**. It launched with a **lean product portfolio** and a growing international sales team. In collaboration with the Head of Sales, I developed a report to analyze the company’s first full year of operations and deliver recommendations to improve performance across sales and the  product teams.
 
 The objectives of this analysis are to:
 - **Evaluate sales performance** across products, time, and region  
@@ -49,7 +42,7 @@ The objectives of this analysis are to:
 **Awesome Chocolate** generated over **$33M in sales** with **61.6% margins**, across 6,113 global shipments. **December 2023** was the top month: $2.94M in sales, 529 shipments — led by **Canada and USA**. **February 2023** was the weakest: 402 shipments, $1.39M profit. The top 5 products (Organic Choco Syrup, Peanut Butter Cubes, 99% Dark & Pure, Manuka Honey Choco, Fruit & Nut Bars) contributed 29% of revenue. Bottom 5 ( 85% Dark Bars, Choco Coated Almonds, 70% Dark Bites, Eclairs, and Mint Chip Choco mainly in **India and Australia** — showed weak traction
 
 ### Key Performance Metrics (Feb 2023 – Feb 2024)
-![Key Performance Metrics](assets/image/key_performance_metric.png)
+![Key Performance Metrics](assets/image/Awesome_chocolate_performance_metrics.png)
 
 
 ### 📘 Schema ERD Diagram
@@ -59,8 +52,28 @@ The objectives of this analysis are to:
 
 ---
 
+## 3. 🔍 Insight Deep Dive 
 
 
+### 📊 Best Month Analysis (Dec 2023)
+- **Sales:** $2.94M  
+- **Profit:** $1.83M  
+- **Shipments:** 529  
+- **Region Drivers:** Canada, USA
+  
+✅ December recorded the highest profit, sales, and shipment volume of the entire year, with demand peaking in North America.
+
+📌 Recommendation: Prioritize Q4 for seasonal campaigns, allocating up to ** 20 - 25% of annual stock and promotional spend**, with targeted focus on **Canada and USA**, which historically delivered the highest year-end demand.
+
+### 📉 Worst Month Analysis (Feb 2023)
+- **Sales:** $2.27M  
+- **Profit:** $1.39M  
+- **Shipments:** 402  
+- **Region:** India lagging  
+
+✅ February had the lowest performance metrics across all KPIs, especially in APAC markets like India, which is consistent with typical startup ramp-up and post-holiday sales fatigue.
+
+📌 Recommendation: Designate February for internal training, pilot product tests, or operational reviews instead of outbound campaigns to optimize team readiness for Q2 and beyond.
 
 
 
