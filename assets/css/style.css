@@ -1,0 +1,6 @@
+.page-header {
+  background-image: url('/assets/image/sales-dash.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white; /* Optional: change text color for contrast */
+}
