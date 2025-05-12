@@ -25,6 +25,7 @@
 
 
 
+---
 
 ## 1. 📁 Project Background
 
@@ -64,7 +65,7 @@ The objectives of this analysis are to:
   
 ✅ December recorded the highest profit, sales, and shipment volume of the entire year, with demand peaking in North America.
 
-📌 Recommendation: Prioritize Q4 for seasonal campaigns, allocating up to ** 20 - 25% of annual stock and promotional spend**, with targeted focus on **Canada and USA**, which historically delivered the highest year-end demand.
+📌 Action: Prioritize Q4 for seasonal campaigns, allocating up to ** 20 - 25% of annual stock and promotional spend**, with targeted focus on **Canada and USA**, which historically delivered the highest year-end demand.
 
 ### 📉 Worst Month Analysis (Feb 2023)
 - **Sales:** $2.27M  
@@ -72,14 +73,15 @@ The objectives of this analysis are to:
 - **Shipments:** 402  
 - **Region:** India lagging  
 
-✅ February had the lowest performance metrics across all KPIs, especially in APAC markets like India, which is consistent with typical startup ramp-up and post-holiday sales fatigue.
+✅ Insight: February had the lowest performance metrics across all KPIs, especially in APAC markets like India, which is consistent with typical startup ramp-up and post-holiday sales fatigue.
 
-📌 Recommendation: Designate February for internal training, pilot product tests, or operational reviews instead of outbound campaigns to optimize team readiness for Q2 and beyond.
+📌 Action: Designate February for internal training, pilot product tests, or operational reviews instead of outbound campaigns to optimize team readiness for Q2 and beyond.
 
 ---
 
 ## 4. 📈 Performance Visuals & Trends
 
+### 4A. Profit, Sales, Shipments Over Time
 
 ### 📊 Total Profit by Month
 ![Total Profit by Month](assets/image/profit_by_month.png)
@@ -107,7 +109,92 @@ The objectives of this analysis are to:
 ## 5. 🌡️ MoM % Change Heatmap
 ![MoM % Change Heatmap](assets/image/mom_change_matrix.png)
 
+**December 2023: Your Growth Lever**
+  December showed the highest month-over-month increases across all three KPIs: **+28.9% in Sales**, **+40.6% in Profit**, and **+20.8% in Shipments**. This consistent spike indicates a seasonal demand surge, likely tied to holiday consumption patterns. It’s a strong signal to invest in Q4 campaign planning, inventory build-up, and logistics readiness for end-of-year demand.
+
+---  
+
+**November 2023: Coordinated Dip**
+November marked a simultaneous drop across KPIs: **-19.9% in Sales**, **-25.1% in Profit**, and **-13.8% in Shipments**. This suggests potential operational issues such as stockouts, delivery delays, or poor campaign timing. It’s a red flag for both the marketing and supply chain teams to investigate and mitigate risk during future Q4 planning.
+
 ---
+
+**February (2023 & 2024): Predictably Soft Starts**
+February performance was consistently flat or declining, with **February 2023** having the lowest shipment count (402) and **Profit at just $1.39M**. This reflects common post-holiday slowdowns and the natural lag from startup onboarding. Rather than forcing growth here, it's best used for internal reviews, product pilots, or team training.
+
+---
+
+
+## 6. 💼 Product Performance
+
+
+### 🔝 Top 5 Performing Products
+![Top 5 Products](assets/image/top_5_products_revenue.png)
+
+✅ Insight: These products generated nearly 30% of total revenue across all months and were strongly represented during peak sales in Q4. Their consistency across regions and time supports their use in seasonal bundling and justifies higher stock allocation.
+
+📌 Action: These products should be included in Q4 holiday gift packs, especially for Canada and the USA, where demand was highest
+
+
+### 🔻 Bottom 5 Performing Products
+![Bottom 5 Products](assets/image/bottom_5_products_revenue.png)
+
+
+ ✅ Insight: These products contributed less than 2% of total annual revenue and showed weak performance across most months, with limited regional traction, especially in India and Australia. Their persistently low sales volume suggests poor market fit, justifying reduced production, regional pullback, or product reformulation before future relaunch.
+
+📌 Action: Consider A/B testing flavor variants or phasing out these SKUs in low-performing regions. Don’t restock until demand is validated.
+
+
+----
+
+## 7. Overall Recommendations
+
+
+**Prioritize Q4 for Revenue Growth**
+
+December 2023 alone contributed ~9% of total revenue, with all KPIs peaking. Allocate 20–25% of the annual inventory and marketing budget toward October–December, especially in Canada and USA.
+---
+
+**Bundle Top-Selling Products for Holiday Campaigns**
+
+Products like Organic Choco Syrup, Peanut Butter Cubes, and 99% Dark & Pure accounted for ~30% of revenue. Bundle them in seasonal offers to drive upsell volume and average order value.
+---
+
+**Phase Out or Reposition Underperforming Products**
+
+Bottom 5 products contributed <2% of revenue. Products like Mint Chip Choco and Eclairs underperformed consistently, especially in India and Australia — recommend pulling them or running taste reformulation pilots.
+---
+
+**Use February Strategically for Operations, Not Sales**
+
+February showed consistently low shipments (402 in 2023). Avoid big launches in Q1 — instead, use it for team training, supplier audits, and product testing.
+---
+
+**Investigate November Sales Dip**
+
+Despite being in Q4, November 2023 had a sharp -25% drop in MoM profit. Audit campaign execution, fulfillment delays, or stockout patterns to avoid repeat performance losses.
+---
+
+**Invest in Canada and the USA as Core Growth Markets**
+
+These two countries led sales and shipments in peak months. Recommend regional targeting in digital marketing, promotions, and retail partnerships.
+---
+
+**Maintain Lean Product Portfolio with Strategic Depth**
+
+Focus inventory and R&D around proven categories (syrups, cubes, dark bars) rather than expanding breadth. Let data-driven sales justify new SKUs.
+---
+
+## 8. ❓ Clarifying Questions & Assumptions
+
+### Questions
+- What caused the November 2023 drop in sales/profit?
+- Were there stockouts, logistics delays, or missed campaigns?
+
+### Assumptions
+- One shipment = one transaction  
+- Cost per box assumed constant  
+- No discount or refund data available
 
 
 
