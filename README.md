@@ -64,7 +64,7 @@ The objectives of this analysis are to:
   
 ✅ December recorded the highest profit, sales, and shipment volume of the entire year, with demand peaking in North America.
 
-📌 Action: Prioritize Q4 for seasonal campaigns, allocating up to ** 20 - 25%** of annual stock and promotional spend**, with targeted focus on **Canada and USA**, which historically delivered the highest year-end demand.
+📌 Action: Prioritize Q4 for seasonal campaigns, allocating up to **20 - 25%** of annual stock and promotional spend**, with targeted focus on **Canada and USA**, which historically delivered the highest year-end demand.
 
 ### Worst Month Analysis (Feb 2023)
 - **Sales:** $2.27M  
