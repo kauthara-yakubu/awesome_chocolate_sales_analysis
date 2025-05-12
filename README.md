@@ -42,7 +42,6 @@ The objectives of this analysis are to:
 
 **Awesome Chocolate** generated over **$33M in sales** in its first 13 months, with **61.6% margins**, across 6,113 global shipments. Performance peaked in **December 2023**, driven by **$2.94M** in sales and **529** shipments, especially from **Canada and the USA**. The lowest-performing month was **February 2023**, with only **402** shipments, a typical result for a startup’s early ramp-up. The top 5 products (Organic Choco Syrup, Peanut Butter Cubes, 99% Dark & Pure, Manuka Honey Choco, Fruit & Nut Bars) contributed over 29% of revenue, while the bottom 5 ( 85% Dark Bars, Choco Coated Almonds, 70% Dark Bites, Eclairs, and Mint Chip Choco primarily in **India and Australia** showed weak traction.
 
-### Key Performance Metrics (Feb 2023 – Feb 2024)
 ![Key Performance Metrics](assets/image/Awesome_chocolate_performance_metrics.png)
 
 
