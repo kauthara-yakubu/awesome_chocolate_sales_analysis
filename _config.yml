@@ -1,7 +1,13 @@
 title: Awesome Chocolate Sales Analysis
-logo: assets/image/sales-dash.jpg
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+# Add this:
+defaults:
+  - scope:
+      path: ""
+    values:
+      stylesheet: /assets/css/style.css
 
