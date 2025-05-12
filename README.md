@@ -5,23 +5,23 @@
 
 ## 📚 Table of Contents
 
-1. [📁 Project Background](#project-background)  
-2. [🧠 Executive Summary](#executive-summary)  
+1. [📁 Project Background](#1-project-background)  
+2. [🧠 Executive Summary](#2-executive-summary)  
    - [📘 Schema ERD Diagram](#schema-erd-diagram)  
-3. [🔍 Insight Deep Dive (MoM Matrix)](#insight-deep-dive-mom-matrix)  
+3. [🔍 Insight Deep Dive (MoM Matrix)](#3-insight-deep-dive-mom-matrix)  
    - [📊 Best Month Analysis (Dec 2023)](#best-month-analysis-dec-2023)  
    - [📉 Worst Month Analysis (Feb 2023)](#worst-month-analysis-feb-2023)  
-4. [📈 Performance Visuals & Trends](#performance-visuals--trends)  
+4. [📈 Performance Visuals & Trends](#4-performance-visuals--trends)  
    - [📊 Total Profit by Month](#total-profit-by-month)  
    - [📊 Profit % & MoM Profit Change](#profit--mom-profit-change)  
    - [📊 Sales vs Cost by Month](#sales-vs-cost-by-month)  
    - [📊 Shipment Count by Month](#shipment-count-by-month)  
-5. [🌡️ MoM % Change Heatmap](#mom--change-heatmap)  
-6. [💼 Product Performance](#product-performance)  
+5. [🌡️ MoM % Change Heatmap](#5-mom--change-heatmap)  
+6. [💼 Product Performance](#6-product-performance)  
    - [🔝 Top 5 Performing Products](#top-5-performing-products)  
    - [🔻 Bottom 5 Performing Products](#bottom-5-performing-products)  
-7. [✅ Strategic Recommendations](#overall-recommendations)  
-8. [❓ Clarifying Questions & Assumptions](#clarifying-questions--assumptions)
+7. [✅ Strategic Recommendations](#7-overall-recommendations)  
+8. [❓ Clarifying Questions & Assumptions](#8-clarifying-questions--assumptions)
 
 
 
