@@ -151,39 +151,39 @@ February performance was consistently flat or declining, with **February 2023** 
 
 
 **Prioritize Q4 for Revenue Growth**
-
 December 2023 alone contributed ~9% of total revenue, with all KPIs peaking. Allocate 20–25% of the annual inventory and marketing budget toward October–December, especially in Canada and USA.
+
 ---
 
 **Bundle Top-Selling Products for Holiday Campaigns**
-
 Products like Organic Choco Syrup, Peanut Butter Cubes, and 99% Dark & Pure accounted for ~30% of revenue. Bundle them in seasonal offers to drive upsell volume and average order value.
+
 ---
 
 **Phase Out or Reposition Underperforming Products**
-
 Bottom 5 products contributed <2% of revenue. Products like Mint Chip Choco and Eclairs underperformed consistently, especially in India and Australia — recommend pulling them or running taste reformulation pilots.
+
 ---
 
 **Use February Strategically for Operations, Not Sales**
-
 February showed consistently low shipments (402 in 2023). Avoid big launches in Q1 — instead, use it for team training, supplier audits, and product testing.
+
 ---
 
 **Investigate November Sales Dip**
-
 Despite being in Q4, November 2023 had a sharp -25% drop in MoM profit. Audit campaign execution, fulfillment delays, or stockout patterns to avoid repeat performance losses.
+
 ---
 
 **Invest in Canada and the USA as Core Growth Markets**
-
 These two countries led sales and shipments in peak months. Recommend regional targeting in digital marketing, promotions, and retail partnerships.
----
 
+---
 **Maintain Lean Product Portfolio with Strategic Depth**
-
 Focus inventory and R&D around proven categories (syrups, cubes, dark bars) rather than expanding breadth. Let data-driven sales justify new SKUs.
+
 ---
+
 
 ## 8. ❓ Clarifying Questions & Assumptions
 
