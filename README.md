@@ -195,6 +195,12 @@ Focus inventory and R&D around proven categories (syrups, cubes, dark bars) rath
 - Cost per box assumed constant  
 - No discount or refund data available
 
+---
+## 9. Dashboard
+
+![Dashboard](assets/image/Sales_analysis.png)
+
+
 
 
 
