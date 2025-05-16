@@ -4,7 +4,7 @@
 
 ## Dashboard
 
-![Dashboard](assets/image/Sales_Dashboard(1).gif)
+![Dashboard](assets/image/Sales_Dashboard.gif)
 
 ---
 ## 📚 Table of Contents
