@@ -2,11 +2,15 @@
 **_Executive Sales Analysis, Product Insights, and Actionable Strategy for Awesome Chocolate Inc_**
 
 
+## Dashboard
+
+![Dashboard](assets/image/Sales_Dashboard(1).gif)
+
+---
 ## 📚 Table of Contents
 
 1. [📁 Project Background](#1-project-background)  
 2. [🧠 Executive Summary](#2-executive-summary)  
-   - [📘 Schema ERD Diagram](#schema-erd-diagram)  
 3. [🔍 Insight Deep Dive (MoM Matrix)](#3-insight-deep-dive-mom-matrix)  
    - [📊 Best Month Analysis (Dec 2023)](#best-month-analysis-dec-2023)  
    - [📉 Worst Month Analysis (Feb 2023)](#worst-month-analysis-feb-2023)  
@@ -21,7 +25,6 @@
    - [🔻 Bottom 5 Performing Products](#bottom-5-performing-products)  
 7. [✅ Strategic Recommendations](#7-overall-recommendations)  
 8. [❓ Clarifying Questions & Assumptions](#8-clarifying-questions--assumptions)
-
 
 
 
@@ -44,10 +47,6 @@ The objectives of this analysis are to:
 
 ![Key Performance Metrics](assets/image/Awesome_chocolate_performance_metrics.png)
 
-
-### Schema ERD Diagram
-
-![Schema ERD Diagram](assets/image/schema_erd.png)
 
 
 ---
@@ -196,9 +195,6 @@ Focus inventory and R&D around proven categories (syrups, cubes, dark bars) rath
 - No discount or refund data available
 
 ---
-## 9. Dashboard
-
-![Dashboard](assets/image/Sales_analysis.png)
 
 
 
